@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ChessDesktop/ChessDesktop.csproj" />
+    <Project Path="src/ChessEngine/ChessEngine.csproj" />
+    <Project Path="src/ChessWeb.Api/ChessWeb.Api.csproj" />
+    <Project Path="src/ChessWeb.Client/ChessWeb.Client.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ChessEngine.Tests/ChessEngine.Tests.csproj" />
+  </Folder>
+</Solution>
